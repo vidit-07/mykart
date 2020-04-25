@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755836702691",
+    "firebase_url": "https://mykart-29b45.firebaseio.com",
+    "project_id": "mykart-29b45",
+    "storage_bucket": "mykart-29b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755836702691:android:0c030444946df1080a5ad6",
+        "android_client_info": {
+          "package_name": "com.example.mykart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755836702691-sn07erfuh1vf5ls8q7p8mfj4790j78k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhpQJfO7jSJq9J874-kJV60NDuKphETo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755836702691-sn07erfuh1vf5ls8q7p8mfj4790j78k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
